@@ -1,0 +1,1 @@
+{ "name": "voice-chat", "version": "1.0.0", "description": "인터넷 통신을 이용한 전화 통화 웹사이트", "main": "server.js", "scripts": { "start": "node server.js", "dev": "nodemon server.js" }, "keywords": ["voice", "chat", "webrtc", "socket.io"], "author": "", "license": "ISC", "dependencies": { "socket.io": "^4.5.4" }, "devDependencies": { "nodemon": "^2.0.20" } }
